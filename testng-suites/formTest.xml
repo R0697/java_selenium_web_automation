@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Form Test Cases">
+    <test name="Form">
+        <classes>
+            <class name="test.FormTestClass">
+                <methods>
+                    <include name="VerifyTheHeadingOfPage"/>
+                    <include name="VerifyAllTheElementsAreAvailableInForm"/>
+                    <include name="EnterAllDetails"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

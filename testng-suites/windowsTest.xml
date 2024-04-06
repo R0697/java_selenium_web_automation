@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Windows Test Cases">
+    <test name="Windows">
+        <classes>
+            <class name="test.WindowTestClass">
+                <methods>
+                    <include name="clickOnNewTabButtonAndVerifyNewTab"/>
+                    <include name="verifyNewWindowByClickingOnIt"/>
+                    <include name="verifyNewWindowMessageByClickingOnIt"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98f5fc44-93ce-4ee0-b4a5-37d6e9819825" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2egpNnC36rO2KQ7VgcGGC2PNYD8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/rahilranpura/Desktop/Automation_Practical/testng-suites/alertTest.xml.executor": "Run",
+    "TestNG./Users/rahilranpura/Desktop/Automation_Practical/testng-suites/allSuites.xml.executor": "Run",
+    "TestNG./Users/rahilranpura/Desktop/Automation_Practical/testng-suites/formTest.xml.executor": "Run",
+    "TestNG./Users/rahilranpura/Desktop/Automation_Practical/testng-suites/windowsTest.xml.executor": "Run",
+    "TestNG.AlertTestClass.clickButtonToSeeAlert.executor": "Run",
+    "TestNG.BaseTest.activateBrowser.executor": "Run",
+    "TestNG.FormTestClass.EnterAllDetails.executor": "Run",
+    "TestNG.FormTestClass.VerifyAllTheElementsAreAvailableInForm.executor": "Run",
+    "TestNG.FormTestClass.VerifyTheHeadingOfPage.executor": "Run",
+    "TestNG.FrameTestClass.clickButtonToSeeAlert.executor": "Run",
+    "TestNG.PracticeForm.dropdown.executor": "Run",
+    "TestNG.WindowTestClass.NavigateToBrowserWindowsTab.executor": "Run",
+    "TestNG.WindowTestClass.clickOnNewTabButtonAndVerifyNewTab.executor": "Run",
+    "TestNG.WindowTestClass.falseTestcase.executor": "Run",
+    "TestNG.WindowTestClass.verifyNewWindowByClickingOnIt.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/rahilranpura/Desktop/Automation_Practical/testng-suites",
+    "onboarding.tips.debug.path": "/Users/rahilranpura/Desktop/automation_practical/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.29770115"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testng-suites" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/rahilranpura/Desktop/Automation_Practical/testng-suites/allSuites.xml">
+    <configuration name="AlertTestClass.clickButtonToSeeAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Practical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.AlertTestClass" />
+      <option name="METHOD_NAME" value="clickButtonToSeeAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrameTestClass.clickButtonToSeeAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Practical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.FrameTestClass" />
+      <option name="METHOD_NAME" value="clickButtonToSeeAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rahilranpura/Desktop/Automation_Practical/testng-suites/alertTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Practical" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-suites/alertTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rahilranpura/Desktop/Automation_Practical/testng-suites/allSuites.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Practical" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-suites/allSuites.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/rahilranpura/Desktop/Automation_Practical/testng-suites/formTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Practical" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-suites/formTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/rahilranpura/Desktop/Automation_Practical/testng-suites/allSuites.xml" />
+        <item itemvalue="TestNG.FrameTestClass.clickButtonToSeeAlert" />
+        <item itemvalue="TestNG./Users/rahilranpura/Desktop/Automation_Practical/testng-suites/alertTest.xml" />
+        <item itemvalue="TestNG.AlertTestClass.clickButtonToSeeAlert" />
+        <item itemvalue="TestNG./Users/rahilranpura/Desktop/Automation_Practical/testng-suites/formTest.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-3183f394aec4-fdae186d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98f5fc44-93ce-4ee0-b4a5-37d6e9819825" name="Changes" comment="" />
+      <created>1712336038559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712336038559</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
