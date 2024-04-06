@@ -19,9 +19,9 @@ public class AllureReport extends BaseTest {
     public void createFileOfBuildDescription () {
         LOG.info("------- Start Collecting Build Details -------");
         String description = Paths.get(".\\allure-results", "environment.properties").toAbsolutePath().normalize().toString();
-        File jenkinsDescriptionFile = new File(description);
+        File descriptionFile = new File(description);
         try {
-            Writer bw = new BufferedWriter(new FileWriter(jenkinsDescriptionFile));
+            Writer bw = new BufferedWriter(new FileWriter(descriptionFile));
             bw.write(buildDescription);
             bw.close();
         } catch (IOException e) {

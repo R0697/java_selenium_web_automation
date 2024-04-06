@@ -1,7 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sat Apr 06 15:32:18 IST 2024","Sat Apr 06 15:32:18 IST 2024","127","Form Test Cases","Form","test.FormTestClass","test.FormTestClass","VerifyTheHeadingOfPage","Verify the heading of the page",""
-"passed","Sat Apr 06 15:19:20 IST 2024","Sat Apr 06 15:19:45 IST 2024","24762","Windows Test Cases","Windows","test.WindowTestClass","test.WindowTestClass","verifyNewWindowMessageByClickingOnIt","Verify the new window message button by clicking on it",""
-"passed","Sat Apr 06 15:18:17 IST 2024","Sat Apr 06 15:18:55 IST 2024","37697","Windows Test Cases","Windows","test.WindowTestClass","test.WindowTestClass","clickOnNewTabButtonAndVerifyNewTab","Verify the new tab open successfully by clicking on it",""
-"passed","Sat Apr 06 15:18:55 IST 2024","Sat Apr 06 15:19:20 IST 2024","24890","Windows Test Cases","Windows","test.WindowTestClass","test.WindowTestClass","verifyNewWindowByClickingOnIt","Verify the new window open successfully by clicking on it",""
-"passed","Sat Apr 06 15:32:21 IST 2024","Sat Apr 06 15:32:25 IST 2024","3813","Form Test Cases","Form","test.FormTestClass","test.FormTestClass","EnterAllDetails","Enter details in each fields",""
-"passed","Sat Apr 06 15:32:18 IST 2024","Sat Apr 06 15:32:21 IST 2024","2767","Form Test Cases","Form","test.FormTestClass","test.FormTestClass","VerifyAllTheElementsAreAvailableInForm","Verify all elements are present on the form",""
